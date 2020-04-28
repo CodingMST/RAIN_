@@ -1,0 +1,8 @@
+class Drop {
+
+floatx;
+floaty;
+
+
+
+}
